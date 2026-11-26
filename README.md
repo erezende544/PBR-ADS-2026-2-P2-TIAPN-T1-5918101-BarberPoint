@@ -1,23 +1,26 @@
-# TÍTULO DO PROJETO
+# Barber Point
 
-`CURSO`
+`Sistemas de Informação/Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Trabalho Interdisciplinar: Aplicações para Processos de Negócios`
 
-`SEMESTRE`
+`2026/2`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto BarberPoint tem como foco a análise e a otimização dos processos de negócio de uma barbearia do setor de cuidados pessoais masculinos (serviços de corte, barba, lavagem e tintura). A partir do mapeamento da operação atual (modelo AS-IS), foram identificados gargalos críticos, como a gestão manual de horários via telefone ou WhatsApp, a descentralização na comunicação de disponibilidade e a falta de controle financeiro integrado. Para solucionar esses entraves, propõe-se a transição para um fluxo automatizado (modelo TO-BE em notação BPMN), materializado em um sistema web desenvolvido com front-end em HTML, CSS e JavaScript, back-end em Python e banco de dados relacional SQLite.
+
+Na prática, a plataforma centraliza a operação ao permitir que clientes realizem agendamentos rápidos sem necessidade de conta — escolhendo serviços, barbeiro, data, horário e forma de pagamento (com cálculo automático de total e troco) , recebendo um código de 8 caracteres para consulta ou cancelamento, além de opção de lista de espera para horários ocupados. Na área restrita, os barbeiros autenticados gerenciam suas agendas diárias, confirmando ou atualizando atendimentos, acionando lembretes via WhatsApp e reaproveitando vagas canceladas para reduzir a ociosidade. O sistema também automatiza o controle financeiro diário (calculando valor bruto, taxa de 20% do estabelecimento e saldo líquido do profissional), garantindo agilidade ao cliente, previsibilidade financeira e máxima eficiência operacional.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Eduardo Rezende Machado
+* Gabriel Silva Cardoso
+* Heberth Augusto de Sousa
+* Marcos Filipe Dutra de Oliveira
+* Ramon Alves Teixeira
 
 ## Orientador
 
-* Nome completo do professor 1
+* Gleisson Albergaria Amaral
 
 ## Instruções de utilização
 
